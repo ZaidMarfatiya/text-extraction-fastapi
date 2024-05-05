@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Misc
+.DS_Store
+.env
+.env.*
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.swp
+*.swo
